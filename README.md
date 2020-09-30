@@ -56,7 +56,7 @@ ________________________________________________________________________________
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/7a555d6e36d48af6b30b831a624fabf8d13ce41c/tensorboard/epoch_categorical_accuracy%20(4).svg)
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/7a555d6e36d48af6b30b831a624fabf8d13ce41c/tensorboard/epoch_loss%20(4).svg)
     
-   ## Прогон (5). Веса MobileNetV2 заморожены. Сеть сохраняется для пункта (4)
+   ## Прогон (5). Веса MobileNetV2 заморожены. Сеть сохраняется для пункта (6)
 
          lr = 0.00004
          base_model.trainable = True
