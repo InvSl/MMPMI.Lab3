@@ -46,30 +46,30 @@ ________________________________________________________________________________
   
         base_model.trainable = False
   
-  ![Image alt]
-  ![Image alt]
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_categorical_accuracy%20(3).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_loss%20(3).svg)
         
   ## Прогон (4). Загруженная сеть (3). Веса MobileNetV2 разморожены для дообучения
 
          base_model.trainable = True
       
-  ![Image alt]
-  ![Image alt]
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_categorical_accuracy%20(4).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_loss%20(4).svg)
     
    ## Прогон (5). Веса MobileNetV2 заморожены. Сеть сохраняется для пункта (6)
 
          lr = 0.00004
          base_model.trainable = False
       
-  ![Image alt]
-  ![Image alt]
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_categorical_accuracy%20(5).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_loss%20(5).svg)
   
   
   ## Прогон (6). Загруженная сеть (5). Веса MobileNetV2 разморожены для дообучения
 
          base_model.trainable = True
       
-  ![Image alt]
-  ![Image alt]
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_categorical_accuracy%20(6).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1a9f443f1fff71f85f4d49e4d821eddd707e52b4/tensorboard/epoch_loss%20(6).svg)
   
   
