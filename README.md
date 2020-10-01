@@ -49,7 +49,7 @@ ________________________________________________________________________________
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/7a555d6e36d48af6b30b831a624fabf8d13ce41c/tensorboard/epoch_categorical_accuracy%20(3).svg)
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/7a555d6e36d48af6b30b831a624fabf8d13ce41c/tensorboard/epoch_loss%20(3).svg)
         
-  ## Прогон (4). Загруженная сеть (2). Веса MobileNetV2 разморожены для дообучения
+  ## Прогон (4). Загруженная сеть (3). Веса MobileNetV2 разморожены для дообучения
 
          base_model.trainable = True
       
