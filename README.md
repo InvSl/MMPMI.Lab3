@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
         base_model = tf.keras.applications.MobileNetV2(
                                   include_top=False,
-                                  weights=None, classe = 6)
+                                  weights=None, classes = 6)
       
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/1800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(0).svg)
   ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/1800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(0).svg)
