@@ -11,16 +11,16 @@ ________________________________________________________________________________
                                   
         lr = 0.0001
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/1800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(0).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/1800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(0).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1fdb0b4bc65fc06acec9f0253a31994e9c661b95/tensorboard/epoch_categorical_accuracy%20(0.0001).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1fdb0b4bc65fc06acec9f0253a31994e9c661b95/tensorboard/epoch_loss%20(0.0001).svg)
   
   
          lr = 0.00001
 
         
       
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/1800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_categorical_accuracy(0).svg)
-  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab2/1800457221553b4080c52716d1af84a2b3590b2a0/tensorboard/epoch_loss(0).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1fdb0b4bc65fc06acec9f0253a31994e9c661b95/tensorboard/epoch_categorical_accuracy%20(0.00001).svg)
+  ![Image alt](https://raw.githubusercontent.com/InvSl/MMPMI.Lab3/1fdb0b4bc65fc06acec9f0253a31994e9c661b95/tensorboard/epoch_loss%20(0.00001).svg)
    
   
   ## Прогон (1). Замена классификатора в предобученной сети на необходимый для решения поставленной задачи. 
